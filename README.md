@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shivam Pandey and I'm a Computer science enthusiast, from India.</p>
+<p align="left">My name is Shivam Pandey and I'm a computer science enthusiast, from India.</p>
 
 ###
 
