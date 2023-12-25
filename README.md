@@ -39,5 +39,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ShivamPandey00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivamPandey00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/shivam-pandey-44241b157/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <a href="https://twitter.com/shivam__pandeyy"> <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1703492136~exp=1703492736~hmac=774d0579fafdb8ed78782b865436f18c5611cc16460319fcefd1ff27eca322f0" height="35" alt="Twitter logo"  />
+  <a href="https://discord.com/channels/@shivam__pandeyy"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="shivampandey870@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 ###
